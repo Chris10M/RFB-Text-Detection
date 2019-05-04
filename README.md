@@ -23,7 +23,7 @@ The features of the model are summarized below:
 + The model is tuned for predicting text boxes for natural scene documents, like bank statements, forms, recipts, etc, and evidently do OCR on these text boxes.
 
 
-Please cite this [paper](https://arxiv.org/abs/1711.07767), [paper](https://arxiv.org/abs/1704.03155v2) if you find this useful.
+Please cite these [paper](https://arxiv.org/abs/1711.07767), [paper](https://arxiv.org/abs/1704.03155v2) if you find this useful.
 
 ### Contents
 1. [Installation](#installation)
