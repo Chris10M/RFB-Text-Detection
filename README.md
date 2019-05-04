@@ -33,7 +33,8 @@ Please cite these [paper](https://arxiv.org/abs/1711.07767), [paper](https://arx
 2. [Download Pre-Trained Model](#download)
 2. [Demo](#demo)
 3. [Eval](#eval)
-4. [Examples](#examples)
+4. [Train](#train)
+5. [Examples](#examples)
 
 ### Installation
 + Requirements from requirements.txt
@@ -65,6 +66,9 @@ python eval.py
 ```
 the images are taken from **eval_images/evaluation_images** and the output is predicted to **eval_images/predicted_boxes**, text files will be then written to the output path. This format confides to the ICDAR text detection challenge format.
 
+### Train
+The training code is not uploaded as of now, but will definitely post it in the upcoming days.  
+
 ### Examples
 Here are some examples, the images on the left represent source images, and the images on the right are images overlayed with the predicted bounding boxes.
 
@@ -75,3 +79,5 @@ Here are some examples, the images on the left represent source images, and the 
 
 ### Issues
 If you encounter any issues, please create an issue tracker.
+
+And a huge shout out for [argman/EAST](https://github.com/argman/EAST).
