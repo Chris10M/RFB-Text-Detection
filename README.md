@@ -61,7 +61,8 @@ python eval.py
 the images are taken from **eval_images/evaluation_images** and the output is predicted to **eval_images/predicted_boxes**, text files will be then written to the output path. This format confides to the ICDAR text detection challenge format.
 
 ### Examples
-Here are some examples,
+Here are some examples, the images on the left represent source images, and the images on the right are images overlayed with the predicted bounding boxes.
+
 ![image_1](test_images/predicted_images/1.jpg)
 ![image_2](test_images/predicted_images/2.jpg)
 ![image_3](test_images/predicted_images/3.jpg)
