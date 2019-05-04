@@ -10,6 +10,7 @@ The features of the model are summarized below:
 + Keras implementation for lucid and clean code.
 + Backbone: **Resnet50**
 + Inference time for 720p images:
+
     **GPU VERSION**
     + Graphics Card: MX130
     + Inference Time: 700ms
@@ -53,11 +54,11 @@ python3 run_demo.py
 the images are taken from **test_images/input_images** and the output is predicted to **test_images/predicted_images**
 
 ### Eval
-run
+If you want to benchmark it on ICDAR 2015, run 
 ```
 python eval.py
 ```
-the images are taken from **eval_images/evaluation_images** and the output is predicted to **eval_images/predicted_boxes**, text files will be then written to the output path.
+the images are taken from **eval_images/evaluation_images** and the output is predicted to **eval_images/predicted_boxes**, text files will be then written to the output path. This format confides to the ICDAR text detection challenge format.
 
 ### Examples
 Here are some examples,
