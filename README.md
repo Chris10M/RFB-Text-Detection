@@ -1,4 +1,4 @@
-# RFB Text Detection Module - 
+# Receptive Field Blocks Text Detection Module (RFBTD Module)
 A Dense Text Detection model using Receptive Field Blocks
 
 ### Introduction
@@ -10,15 +10,17 @@ The features of the model are summarized below:
 + Keras implementation for lucid and clean code.
 + Backbone: **Resnet50**
 + Inference time for 720p images:
+    **GPU VERSION**
     + Graphics Card: MX130
     + Inference Time: 700ms
     + Batch Size: 1
-    
+   
+    **CPU VERSION**
     + CPU: Intel i7-8550U CPU @ 1.80GHz
     + Inference Time: 1750ms
     + Batch Size: 1
 
-+ The pre-trained model provided achieves **47.09**(Single Crop, Resize Only) F1-score on ICDAR 2015. But was not trained on ICDAR 2015. To improve accuracy fine-tune on ICDAR 2015, and predict with multiple crops.
++ The pre-trained model provided achieves **47.09**(Single Crop, Resize Only) F1-score on ICDAR 2015, but was not trained on ICDAR 2015. To improve accuracy fine-tune on ICDAR 2015, and predict with multiple crops.
 
 + The model is tuned for predicting text boxes for natural scene documents, like bank statements, forms, recipts, etc, and evidently do OCR on these text boxes.
 
