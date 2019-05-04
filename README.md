@@ -80,9 +80,9 @@ Here are some examples, the images on the left represent source images, and the 
 ### Issues
 If you encounter any issues, please create an issue tracker.
 
-And a huge shout out for [argman/EAST](https://github.com/argman/EAST).
-
 ### Model Architecture
 
 If you want to get more insight on the RF Block, just peruse the model architecture.
 ![image_1](model_architecture.png)
+
+And a huge shout out for [argman/EAST](https://github.com/argman/EAST) for providing C++ NMS. 
