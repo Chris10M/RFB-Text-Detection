@@ -84,4 +84,5 @@ And a huge shout out for [argman/EAST](https://github.com/argman/EAST).
 
 ### Model Architecture
 
+If you want to get more insight on the RF Block, just peruse the model architecture.
 ![image_1](model_architecture.png)
