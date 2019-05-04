@@ -64,4 +64,5 @@ Here are some examples,
 ![image_3](test_images/predicted_images/3.jpg)
 ![image_4](test_images/predicted_images/4.jpg)
 
+### Issues
 If you encounter any issues, please create an issue tracker.
