@@ -81,3 +81,7 @@ Here are some examples, the images on the left represent source images, and the 
 If you encounter any issues, please create an issue tracker.
 
 And a huge shout out for [argman/EAST](https://github.com/argman/EAST).
+
+### Model Architecture
+
+![image_1](model_architecture.png)
