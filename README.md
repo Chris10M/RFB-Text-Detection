@@ -30,7 +30,7 @@ Please cite these [paper](https://arxiv.org/abs/1711.07767), [paper](https://arx
 
 ### Contents
 1. [Installation](#installation)
-2. [Download Pre-Trained Model](#Download Pre-Trained Model)
+2. [Download Pre-Trained Model](#download)
 2. [Demo](#demo)
 3. [Eval](#eval)
 4. [Examples](#examples)
