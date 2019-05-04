@@ -30,7 +30,7 @@ Please cite these [paper](https://arxiv.org/abs/1711.07767), [paper](https://arx
 
 ### Contents
 1. [Installation](#installation)
-2. [Download Pre-Trained Model](#download  pre-trained model)
+2. [Download Pre-Trained Model](#download)
 2. [Demo](#demo)
 3. [Eval](#eval)
 4. [Examples](#examples)
@@ -48,8 +48,8 @@ Please cite these [paper](https://arxiv.org/abs/1711.07767), [paper](https://arx
      
      plumbum==1.6.7
 
-### Download Pre-Trained Model
-The Pre-trained Model is available at this Link [GoogleDrive](https://drive.google.com/open?id=1mw8v_VV1KidyrqY_0A_oSYxRhPex4oKY)
+### Download
+The **Pre-trained Model** is available at this Link [GoogleDrive](https://drive.google.com/open?id=1mw8v_VV1KidyrqY_0A_oSYxRhPex4oKY)
 
 ### Demo
 If you've downloaded the pre-trained model, run 
