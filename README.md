@@ -37,10 +37,15 @@ Please cite these [paper](https://arxiv.org/abs/1711.07767), [paper](https://arx
 
 ### Installation
 + Requirements from requirements.txt
+
      tensorflow==1.13.1
+
      Keras==2.2.4
+     
      numpy==1.16.2
+     
      opencv_contrib_python==4.0.0.21
+     
      plumbum==1.6.7
 
 ### Download
