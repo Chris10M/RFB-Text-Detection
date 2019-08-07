@@ -29,12 +29,16 @@ The features of the model are summarized below:
 Please cite these [paper](https://arxiv.org/abs/1711.07767), [paper](https://arxiv.org/abs/1704.03155v2) if you find this useful.
 
 ### Contents
-1. [Installation](#installation)
-2. [Download Pre-Trained Model](#download)
-2. [Demo](#demo)
-3. [Eval](#eval)
-4. [Train](#train)
-5. [Examples](#examples)
+1. [Live Demo](#livedemo)
+2. [Installation](#installation)
+3. [Download Pre-Trained Model](#download)
+4. [Demo](#demo)
+5. [Eval](#eval)
+6. [Train](#train)
+7. [Examples](#examples)
+
+### LiveDemo
+The model is hosted on my server so if you want to try it out live, [click here](https://ai.pragmaticdnn.in/rfb-text-detection) and the model is hosted with the resolution resized to **@480p**. This is due to the model not fiting on my single core, 512mb RAM server. So accuracy will flounder due to the small image input.
 
 ### Installation
 + Requirements from requirements.txt
