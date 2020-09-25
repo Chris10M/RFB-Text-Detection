@@ -1,4 +1,4 @@
-tensorflow==1.13.1
+tensorflow==1.15.4
 Keras==2.2.4
 numpy==1.16.2
 opencv_contrib_python==4.0.0.21
