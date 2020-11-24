@@ -3,3 +3,4 @@ Keras==2.2.4
 numpy==1.16.2
 opencv_contrib_python==4.0.0.21
 plumbum==1.6.7
+h5py==2.10.0
